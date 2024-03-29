@@ -53,7 +53,7 @@ github_username:  Lee-JaeWon
 # about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_profile_image: images/lee.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a robotics researcher in an combined M.S. & Ph.D. program in [Electrical and Electronic Engineering](https://ee.yonsei.ac.kr/ee/index.do) from [Yonsei University](https://www.yonsei.ac.kr/sc/index.jsp).
+  I am a robotics researcher, now in a combined M.S. & Ph.D. program in [Electrical and Electronic Engineering](https://ee.yonsei.ac.kr/ee/index.do) from [Yonsei University](https://www.yonsei.ac.kr/sc/index.jsp).
   
   I am keen to achieve my dream with an interest in robotics and computer vision.
 

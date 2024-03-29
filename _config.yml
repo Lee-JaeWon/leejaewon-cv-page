@@ -53,13 +53,12 @@ github_username:  Lee-JaeWon
 # about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_profile_image: images/lee.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I am a robotics researcher in an combined M.S.-Ph.D. program in [Electrical and Electronic Engineering](https://ee.yonsei.ac.kr/ee/index.do) from [Yonsei University](https://www.yonsei.ac.kr/sc/index.jsp).
+  
+  I am keen to achieve my dream with an interest in robotics and computer vision.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  For more information, please see the following [CV](https://github.com/Lee-JaeWon/Lee-JaeWon_CV/blob/main/Lee-JaeWon_CV.pdf).
 
 content:
   # - title: Projects # Title for the section

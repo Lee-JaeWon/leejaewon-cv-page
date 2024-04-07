@@ -63,7 +63,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Yonsei University
         sub_title: Ph.D Program in Electrical and Electronic Engineering
         caption: Mar.2024 - present
@@ -71,7 +71,7 @@ content:
         #   Short institution or course description (optional)
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
-      - layout: top-right
+      - layout: top-left
         title: Kwangwoon University
         sub_title: B.S. in Robotics
         caption: Mar.2020 - Feb.2024
@@ -83,10 +83,11 @@ content:
   - title: Publications
     layout: list
     content:
-      - layout: top-middle
+      - layout: top-left
         title: Autonomous Multi Robot Parking System
         sub_title: Jaewon Lee, Hyosuk Joo, Chung-gil Ahn, Hyedo Kim, Junghyun Oh
         caption: ICROS 2023
+        link: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11480481
 
 # Footer
 footer_show_references: true

@@ -116,15 +116,11 @@ content:
     layout: text
     content:
       - layout: top-middle
-        title: Title
-        sub_title: Sub title (eg. Qualification or Job title)(optional)
+        title: 다중 자율 로봇 주차 시스템
+        sub_title: 제어로봇시스템학회 국내학술대회 논문집 (2023): 600-601.
         caption: Item caption (eg. Employment or course dates)(optional)
-        link: Web link (eg. https://sproogen.github.io/modern-resume-theme)(optional)
+        link: https://lee-jaewon.github.io/
         link_text: liele
-        quote: >
-          Short overview or quote for the item
-        description: | # this will include new lines to allow paragraphs
-          Main content area for the list item.
 
 # Footer
 footer_show_references: true

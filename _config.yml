@@ -84,9 +84,9 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: 다중 자율 로봇 주차 시스템
-        sub_title: 이재원, 주효석, 안충길, 김혜도, & 오정현
-        caption: 제어로봇시스템학회 국내학술대회 논문집, 600-601.
+        title: Autonomous Multi Robot Parking System
+        sub_title: **Jaewon Lee**, Hyosuk Joo, Chung-gil Ahn, Hyedo Kim, Junghyun Oh
+        caption: ICROS 2023
 
 # Footer
 footer_show_references: true

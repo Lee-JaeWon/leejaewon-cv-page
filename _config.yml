@@ -89,7 +89,7 @@ content:
         caption: ICROS 2023
         link: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11480481
         description: | # this will include new lines to allow paragraphs
-          Main content area for the list item.
+            ![alt text](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true

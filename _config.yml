@@ -85,8 +85,8 @@ content:
     content:
       - layout: top
         title: Autonomous Multi Robot Parking System
-        sub_title: Jaewon Lee, Hyosuk Joo, Chung-gil Ahn, Hyedo Kim, Junghyun Oh
-        caption: ICROS 2023
+        sub_title: `Jaewon Lee`, Hyosuk Joo, Chung-gil Ahn, Hyedo Kim, Junghyun Oh
+        caption: ICROS 2023 (Undergraduate Paper Award)
         link: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11480481
         # description: | # this will include new lines to allow paragraphs
         #     <p align="center"><img src="/MyPDF/nerf(2).png" width = "700" ></p>

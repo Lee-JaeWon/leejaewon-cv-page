@@ -91,6 +91,17 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #     <p align="center"><img src="/MyPDF/nerf(2).png" width = "700" ></p>
 
+  - title: Awards
+    layout: list
+    content:
+      - layout: top
+        title: ICCV 2023 SLAM Challenge - 4th Place in LiDAR-Inertial Track
+        sub_title: Taeyoung Kim, <mark>Jaewon Lee</mark>, Beomsoo Kim, Euntai Kim
+        caption: ICCV 2023
+        link: https://superodometry.com/iccv23_challenge_LiI
+        # description: | # this will include new lines to allow paragraphs
+        #     <p align="center"><img src="/MyPDF/nerf(2).png" width = "700" ></p>
+
 
 # Footer
 footer_show_references: true
